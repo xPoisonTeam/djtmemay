@@ -1,0 +1,9 @@
+CÀI THƯ VIỆN PYTHON:
+pip install argparse
+pip install subprocess
+pip install time
+pip install requests
+pip install colorama
+pip install random
+pip install datetime
+pip install threading
